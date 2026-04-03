@@ -18,7 +18,6 @@
 - [Lab 3](Lab/Lab%203.pdf)
 - [Lab 4 PDF](Lab/LAB%204.pdf)
 - [Lab 4 PKT](Lab/Lab%204.pkt)
-- [Lab 5 DOCX](Lab/LAB%205.docx)
 - [Lab 5 PDF](Lab/LAB%205.pdf)
 
 ---
